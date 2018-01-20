@@ -1,0 +1,1 @@
+Implementation of the Solar System - demo using the SFML library.
